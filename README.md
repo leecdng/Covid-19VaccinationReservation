@@ -10,7 +10,7 @@
 + 개발 인원 : 4명
 
 ## 구현 화면
-+ <a href="https://github.com/leecdng/Covid-19_Project/blob/master/3%EC%A1%B0%20UI%EA%B5%AC%ED%98%84.pdf">구현 화면 파일 참고<br/>
++ <a href="https://github.com/leecdng/Covid-19_Project/blob/master/3%EC%A1%B0%20UI%EA%B5%AC%ED%98%84.pdf">구현 화면 파일 참고<br/><br/>
 ![image](https://user-images.githubusercontent.com/85078379/148694101-835ee770-283e-44b9-aac2-86c521a1fd66.png)</a>
 ---
 ## 주요 기능
