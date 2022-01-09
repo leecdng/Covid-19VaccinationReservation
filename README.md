@@ -11,7 +11,7 @@
 
 ## 구현 화면
 + <a href="https://github.com/leecdng/Covid-19_Project/blob/master/3%EC%A1%B0%20UI%EA%B5%AC%ED%98%84.pdf">구현 화면 파일 참고<br/>
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="100%"/></a>
+<img src="https://github.com/leecdng/Covid-19_Project/blob/master/ui_img.jpg" width="100%"/></a>
 ---
 ## 주요 기능
 + 회원가입 / 로그인 / 문자 인증
