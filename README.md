@@ -11,9 +11,7 @@
 
 ## 구현 화면
 + <a href="https://github.com/leecdng/Covid-19_Project/blob/master/3%EC%A1%B0%20UI%EA%B5%AC%ED%98%84.pdf">구현 화면 파일 참고<br/><br/>
-<img src="https://user-images.githubusercontent.com/85078379/148694101-835ee770-283e-44b9-aac2-86c521a1fd66.png" width="50%"/><img src="https://user-images.githubusercontent.com/85078379/148694263-a7e4a634-b565-4a17-b1bb-403cc81eccc4.png" width="50%"/>
-<img src="https://user-images.githubusercontent.com/85078379/148694304-82c01116-d51b-48c5-9f7b-f8e1e3f1b189.png" width="50%"/><img src="https://user-images.githubusercontent.com/85078379/148694240-6646ef8c-7779-416c-a8f9-20cfbd3084e0.png" width="50%"/>
-</a>
+![ui_img](https://user-images.githubusercontent.com/85078379/148694455-d803dab0-eafc-4191-932f-4b897126ce04.jpg)</a>
 ---
 ## 주요 기능
 + 회원가입 / 로그인 / 문자 인증
