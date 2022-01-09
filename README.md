@@ -11,11 +11,11 @@
 
 ## 구현 화면
 + <a href="https://github.com/leecdng/Covid-19_Project/blob/master/3%EC%A1%B0%20UI%EA%B5%AC%ED%98%84.pdf">구현 화면 파일 참고<br/>
-<img src="https://github.com/leecdng/Covid-19_Project/blob/master/ui_img.jpg" width="100%"/></a>
+![image](https://user-images.githubusercontent.com/85078379/148694101-835ee770-283e-44b9-aac2-86c521a1fd66.png)</a>
 ---
 ## 주요 기능
 + 회원가입 / 로그인 / 문자 인증
-+ 코로나 검사 예약 / 백신 예약
++ 코로나 검사 예약 / 백신 예약 
 + 진료소 조회, 검색 / 구글 지도 API
 + 진료소 관리 / 백신 관리 / 예약 관리
 + 회원 관리 / 직원 권한 관리
