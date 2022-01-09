@@ -1,5 +1,5 @@
 # JAVA GUI 코로나 검사 예약 및 백신 예약 프로그램
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 
 ## 프로젝트 소개
 + 코로나 검사 예약, 백신 예약, 진료소 검색 등의 기능을 제공
