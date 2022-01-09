@@ -1,5 +1,5 @@
 # JAVA GUI 코로나 검사 예약 및 백신 예약 프로그램
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 ## 프로젝트 소개
 + 코로나 검사 예약, 백신 예약, 진료소 검색 등의 기능을 제공
@@ -10,10 +10,12 @@
 + 개발 인원 : 4명
 
 ## 구현 화면
++ <a href="https://github.com/leecdng/Covid-19_Project/blob/master/3%EC%A1%B0%20UI%EA%B5%AC%ED%98%84.pdf">구현 화면 파일 참고<br/><br/>
+![ui_img](https://user-images.githubusercontent.com/85078379/148694455-d803dab0-eafc-4191-932f-4b897126ce04.jpg)</a>
 ---
 ## 주요 기능
 + 회원가입 / 로그인 / 문자 인증
-+ 코로나 검사 예약 / 백신 예약
++ 코로나 검사 예약 / 백신 예약 
 + 진료소 조회, 검색 / 구글 지도 API
 + 진료소 관리 / 백신 관리 / 예약 관리
 + 회원 관리 / 직원 권한 관리
